@@ -1,0 +1,24 @@
+{
+  "total_transactions": 1000,
+  "polygon": {
+    "count": 500,
+    "min_ms": 102,
+    "max_ms": 214,
+    "mean_ms": 155.03,
+    "median_ms": 152,
+    "p95_ms": 200,
+    "p99_ms": 213,
+    "stddev_ms": 29.1
+  },
+  "fabric": {
+    "count": 500,
+    "min_ms": 87,
+    "max_ms": 309,
+    "mean_ms": 201.12,
+    "median_ms": 204,
+    "p95_ms": 293,
+    "p99_ms": 307,
+    "stddev_ms": 64.98
+  },
+  "errors": 0
+}
