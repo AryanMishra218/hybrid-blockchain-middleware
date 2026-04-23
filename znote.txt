@@ -1,0 +1,17 @@
+Process: 
+
+loadTest.js picks random medicine -> sends to server.js -> recieve and calls performance.js to start timer ->
+ then polygon.js / fabric.js simulates blockchain -> it return transaction hash/ID -> timer end (save in metricsStore.js) -> server.js sends back response.
+
+
+Kisme kya hai: 
+
+server.js  
+medicines.js     → Dataset of 20 real medicines 
+polygon.js       → Simulates Polygon blockchain
+fabric.js        → Simulates Hyperledger Fabric blockchain
+performance.js   → Measures EXACT delay of every transaction (starter and ender and diff.)
+metricsStore.js  → Stores ALL transaction records in memory   
+loadTest.js      → sends random 500 transactions automatically ... Alternates between Polygon and Fabric ... have Batch 10 or 20 user can change it  
+generateReport.js →generate report
+analyze.py        → Reads CSV and generates 3 graphs

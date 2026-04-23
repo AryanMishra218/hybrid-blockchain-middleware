@@ -1,0 +1,21 @@
+drug_name,batch,manufacturer,expiry,dose
+Paracetamol,PCM-2024-001,Sun Pharma,2026-01,500mg
+Amoxicillin,AMX-2024-002,Cipla,2025-08,250mg
+Metformin,MET-2024-003,Dr. Reddys,2026-03,500mg
+Atorvastatin,ATV-2024-004,Ranbaxy,2025-12,10mg
+Omeprazole,OMP-2024-005,Zydus Cadila,2026-06,20mg
+Azithromycin,AZT-2024-006,Lupin,2025-09,500mg
+Cetirizine,CTZ-2024-007,Sun Pharma,2026-02,10mg
+Ibuprofen,IBU-2024-008,Abbott,2025-11,400mg
+Pantoprazole,PNT-2024-009,Torrent Pharma,2026-04,40mg
+Ciprofloxacin,CPF-2024-010,Cipla,2025-07,500mg
+Doxycycline,DOX-2024-011,Pfizer,2026-01,100mg
+Levothyroxine,LVT-2024-012,Abbott,2025-10,50mcg
+Amlodipine,AML-2024-013,Sun Pharma,2026-05,5mg
+Losartan,LST-2024-014,Dr. Reddys,2025-12,50mg
+Metoprolol,MTP-2024-015,Lupin,2026-03,25mg
+Gabapentin,GBP-2024-016,Torrent Pharma,2025-08,300mg
+Sertraline,SRT-2024-017,Zydus Cadila,2026-02,50mg
+Montelukast,MTK-2024-018,Cipla,2025-11,10mg
+Clopidogrel,CLP-2024-019,Sun Pharma,2026-06,75mg
+Insulin Glargine,INS-2024-020,Sanofi,2025-06,100U/ml
